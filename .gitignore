@@ -1,0 +1,6 @@
+#gitignore
+
+.DS_Store
+Experiment_Code/data/*
+Experiment_Code/analysis/*
+Experiment_Code/figures/*
